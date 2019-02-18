@@ -1,0 +1,17 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "C'est un outil qui va déclencher votre suite de tests, _la maintenir en exécution et vous permettre de l'organiser_. En gros, vous lui expliquez rapidement le contexte et vous n'avez plus qu'à vous concentrer sur vos tests.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "assert": "^1.4.1"
+  },
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  }
+}
